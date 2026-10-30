@@ -1,0 +1,6 @@
+{
+  "name": "Blocky World: 3D Obby & Hub",
+  "description": "Dětská 3D dobrodružná hra ve stylu Robloxu s procedurální grafikou, fyzikou Rapier3D, šatnou a parkourovou dráhou Obby nad lávou.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
